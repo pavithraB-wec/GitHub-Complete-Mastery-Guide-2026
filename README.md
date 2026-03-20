@@ -31,7 +31,9 @@ It covers Git and GitHub concepts from beginner to advanced level, including rea
 
 GitHub-Mastery-Guide/
 │
+
 ├── GitHub-Mastery-Guide-ISE-2026.pdf  
+
 └── README.md  
 
 ---
@@ -73,11 +75,6 @@ This project is developed as part of a seminar demonstration to help juniors und
 - Use branches instead of working on main  
 - Keep your GitHub profile updated  
 
----
-
-## ⚠️ Note  
-
-This project is created for educational purposes only.
 
 ---
 
