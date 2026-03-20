@@ -36,13 +36,6 @@ GitHub-Mastery-Guide/
 
 ---
 
-## 📄 Access the Guide  
-
-👉 Download the PDF:  
-[Click Here](./GITHUB%20GUIDE.pdf)
-
----
-
 ## 👩‍💻 Authors  
 
 - B. Pavithra  
